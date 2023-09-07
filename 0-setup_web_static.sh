@@ -11,7 +11,7 @@ mkdir -p /data/web_static/shared/
 mkdir -p /data/web_static/releases/test/
 echo "<html>
     <head>
-        <title>davidkyalo</title>
+        <title>Briangugi</title>
     </head>
     <body>
         <h1>Success! Web server working</h1>

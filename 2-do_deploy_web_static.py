@@ -6,7 +6,7 @@ do_deploy
 from fabric.api import put, run, env
 import os
 
-env.hosts = ['3.236.46.187', '3.239.83.68']
+env.hosts = ['18.234.107.37', '52.91.151.209']
 env.user = "ubuntu"
 
 
